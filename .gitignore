@@ -1,0 +1,13 @@
+*
+
+!.bash*
+!.config/
+!.config/**
+!.gitconfig
+!.gitignore
+!install.sh
+!.profile
+!README.md
+!.vimrc
+!.xinitrc
+

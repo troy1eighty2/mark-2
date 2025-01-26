@@ -1,0 +1,2 @@
+/*! For license information please see 136.js.LICENSE.txt */
+"use strict";(self.webpackChunksource=self.webpackChunksource||[]).push([[136],{6136:(e,s,t)=>{t.d(s,{testAdRequests:()=>a});var r=t(96150);const c="https://www.rakuten.com/api/ads?";async function a(e){const s=e||c;try{return!(await fetch(s)).ok}catch(e){return r.l.error("Failed to call Ads API",e),Promise.resolve(!0)}}}}]);
