@@ -197,3 +197,75 @@ ssh-keygen -t ed25519 -C "troytran000@gmail.com"
 ll
 cd .config/
 ll
+ll
+git init
+git config --global init.defaultBranch main
+ll
+vim .gitignore
+vim README.md
+vim install.sh 
+vim .gitignore 
+ll
+ll .local/
+ll
+cd ..
+ll
+cd whykneel/
+clear
+ll
+ll .git
+rm .gitignore.swp 
+cat .profile 
+ll
+cat .vim
+ll .vim
+cat .Xauthority 
+cd .config/
+ll
+vim .gitconfig 
+vim .gitignore 
+ll
+git add *
+git add -A
+git commit -m "initial"
+git config --global user.email troytran000@gmail.com
+git config --global user.name troy1eighty2
+git commit -m "initial"
+git push
+git push git@github.com:troy1eighty2/mark-2.git
+git push --set-upstream git@github.com:troy1eighty2/mark-2.git main
+git push --set-upstream git@github.com:troy1eighty2/mark-2.git master
+git branch
+git branch -m main
+git branch
+git push --set-upstream git@github.com:troy1eighty2/mark-2.git main
+git pull
+git push --set-upstream git@github.com:troy1eighty2/mark-2.git main
+git pull --rebase origin main
+git commit -m "second"
+git add -A
+git commit -m "second"
+git push --set-upstream git@github.com:troy1eighty2/mark-2.git main
+git push
+git push git@github.com:troy1eighty2/mark-2.git HEAD:main
+git pull --rebase origin main
+git status
+git stash
+git pull --rebase origin main
+git remote -v
+git remote add origin git@github.com:troy1eighty2/mark-2.git
+git remote -v
+git pull --rebase origin main
+git stash
+git pull --rebase origin main
+git push
+git push origin HEAD:main
+git add -A
+git commit -m 'second'
+git config --global user.email troytran000@gmail.com
+git config --global user.name troy1eihty2
+git config --global user.name troy1eighty2
+git commit -m 'second'
+git push
+git push origin HEAD:main
+shutdown
