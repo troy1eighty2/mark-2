@@ -1,3 +1,6 @@
-2025/01/26-10:24:19.893 4 Reusing MANIFEST /home/whykneel/.config/google-chrome/Default/Session Storage/MANIFEST-000001
-2025/01/26-10:24:19.897 4 Recovering log #6
-2025/01/26-10:24:19.898 4 Reusing old log /home/whykneel/.config/google-chrome/Default/Session Storage/000006.log 
+2025/01/27-03:38:17.590 4 Reusing MANIFEST /home/whykneel/.config/google-chrome/Default/Session Storage/MANIFEST-000001
+2025/01/27-03:38:17.592 4 Recovering log #19
+2025/01/27-03:38:17.596 4 Reusing old log /home/whykneel/.config/google-chrome/Default/Session Storage/000019.log 
+2025/01/27-04:15:50.714 5 Level-0 table #23: started
+2025/01/27-04:15:50.716 5 Level-0 table #23: 24276 bytes OK
+2025/01/27-04:15:50.720 5 Delete type=0 #19

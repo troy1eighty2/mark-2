@@ -2,7 +2,7 @@ export PATH=$PATH:/home/troy1eighty2/.local/bin
 
 # /home/troy1eighty2/.local/bin//wal -R &>/dev/null &
 
-eval "$(oh-my-posh init bash --config ~/.config/oh-my-posh/blue-owl.omp.json)"
+# eval "$(oh-my-posh init bash --config ~/.config/oh-my-posh/blue-owl.omp.json)"
 
 alias ll='ls -alF'
 alias la='ls -A'
@@ -15,11 +15,11 @@ alias byebye='shutdown -h now'
 
 alias ms='cd ~/MyStuff/'
 
-alias ultrabright='xrandr --output eDP-1 --brightness 2'
-alias maxbright='xrandr --output eDP-1 --brightness 1'
-alias medbright='xrandr --output eDP-1 --brightness .5'
-alias lowbright='xrandr --output eDP-1 --brightness .3'
-alias minbright='xrandr --output eDP-1 --brightness .1'
+alias ultrabright='xrandr --output eDP --brightness 2'
+alias maxbright='xrandr --output eDP --brightness 1'
+alias medbright='xrandr --output eDP --brightness .5'
+alias lowbright='xrandr --output eDP --brightness .3'
+alias minbright='xrandr --output eDP --brightness .1'
 alias neofetch='neofetch --source ~/MyStuff/Wallpapers/neofetch.txt'
 alias sd="cd ~ && cd \$(find * -type d | fzf)"
 alias ta="tmux attach -t"

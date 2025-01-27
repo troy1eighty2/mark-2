@@ -3,9 +3,11 @@
 !.bash*
 !.config/
 !.config/**
+.config/google-chrome/**
 !.gitconfig
 !.gitignore
 !install.sh
+!.local/share/rofi/themes/**
 !.profile
 !README.md
 !.vimrc

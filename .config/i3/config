@@ -55,7 +55,7 @@ bindsym $mod+Return exec kitty
 bindsym $mod+q kill
 
 # start dmenu (a program launcher)
-bindsym $mod+d exec --no-startup-id dmenu_run
+bindsym $mod+d exec --no-startup-id rofi -show drun
 # A more modern dmenu replacement is rofi:
 # bindcode $mod+40 exec "rofi -modi drun,run -show drun"
 # There also is i3-dmenu-desktop which only displays applications shipping a
@@ -199,5 +199,5 @@ for_window [class="^.*"] border pixel 1
 #         status_command i3status
 # }
 
-exec_always --no-startup-id polybar mybar
+exec_always --no-startup-id polybar
 

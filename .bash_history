@@ -1,57 +1,3 @@
-ll
-cd ..
-ll
-cd /
-ll
-sudo apt install neovim
-nvim
-sudo apt install vim
-vim
-set -o vim
-set -o vi
-asdasiaslkdjnajdns
-iasd
-sd
-asd
-set -o vi
-echo $PATH
-ls /bin
-echo %PATH
-echo $PATH
-ls /usr/local/bin/
-sudo apt update
-sudo apt upgrade
-ll
-cd /
-ll
-echo $PATH
-ll
-ls -a
-cd ~
-ll
-cd .config/
-ll
-cd ..
-ll
-cd .vim/
-ll
-cd ..
-kk
-ll
-cd .cin
-cd .config/
-ll
-cd ..
-sudo apt install i3
-q
-sudo apt remove fluxbox
-edcho env
-echo env
-echo $ENV
-printenv
-sudo apt remove --purge gnome-shell gdm3
-reboot
-ll
 cd .config/
 ll
 cd ~
@@ -415,3 +361,140 @@ ll
 cd ~
 ll
 vim .xinitrc 
+ll
+ll
+cd .config/
+ll
+cd i
+cd i3/
+ll
+vim config 
+polybar
+vim config 
+p
+sps
+ps
+sudo ps
+vim .xinitrc 
+cd .config/
+ll
+cd i3/
+ll
+vim config 
+l
+cd ~
+ll
+git add -A
+cd .config/nvim/
+ll
+rm .git
+rm -rf .git
+cd ~
+git add -A
+git commit -m "nvim"
+git pusb
+git push
+git push origin HEAD:main
+git push --set-upstream origin main
+ms
+cd ..
+cd .config/
+cd ~
+seh
+sudo apt install fzf
+seh
+sd
+d .config/
+cd .config/
+cd polybar/
+ll
+vim config.ini 
+reboot
+sd
+minbright
+xrandr
+vim .bashrc 
+minbright
+vim .bashrc 
+vim .bashrc 
+source .bashrc 
+minbright
+ultrabright
+maxbright
+mediumbright
+medbright
+sd
+cd .config/polybar/
+vim config.ini 
+netcli
+nmcli
+ll
+rbeoot
+reboot
+ps
+vim .bashrc 
+sudo apt install ofi
+sudo apt install rofi
+sd
+cd .config/
+cd i3/
+vim config 
+pkill polybar
+vim config 
+cd ~
+ll
+cd .local/
+ll
+cd share/
+ll
+cd ..
+ll
+mkdir Wallpapers
+cd Wallpapers/
+git clone https://github.com/lr-tech/rofi-themes-collection.git
+cd rofi-themes-collection
+ll
+cd..
+cd ..
+cd ..
+ll
+vim .gitignore 
+ll
+vim .gitignore 
+mkdir -p ~/.local/share/rofi/themes/
+cp ~/Wallpapers/rofi-themes-collection/themes/simple-tokyonight.rasi ~/.local/share/rofi/themes/
+sd
+rm -rf ~/.local/share/rofi/
+rm -rf ~/Wallpapers/rofi-themes-collection/
+git clone https://github.com/lr-tech/rofi-themes-collection.git
+cd rofi-themes-collection ~/Wallpapers/
+ll
+rm -rf rofi-themes-collection/
+git clone https://github.com/lr-tech/rofi-themes-collection.git ~/Wallpapers/
+ll ~/Wallpapers/
+rm -rf ~/Wallpapers/**
+ll ~/Wallpapers/
+rm -rf ~/Wallpapers/.*
+cd Wallpapers/
+ll
+git clone https://github.com/lr-tech/rofi-themes-collection.git
+cd rofi-themes-collection
+rm .git/
+rm -rf .git/
+mkdir -p ~/.local/share/rofi/themes/
+ll ~/.local/share/rofi/
+history | grep cp
+cp ~/Wallpapers/rofi-themes-collection/themes/simple-tokyonight.rasi ~/.local/share/rofi/themes/
+vim .gitignore 
+pkill polybar
+pkill polybar
+vim .config/polybar/config.ini 
+:q
+ls -1 /sys/class/power_supply/
+neofetch
+git add *
+git commit -m "polybar battery config"
+git push
+git push origin HEAD:main
+git add -A
+git push origin HEAD:main
