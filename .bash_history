@@ -1,12 +1,3 @@
-cd .config/
-ll
-cd ~
-ll
-vim
-clear
-top
-clear
-shutdown
 shutdown -f
 shutdown -c
 shutdown -h now
@@ -498,3 +489,12 @@ git push
 git push origin HEAD:main
 git add -A
 git push origin HEAD:main
+ll .config/
+git status
+vim .gitignore 
+vim .gitignore 
+git add -A
+git commit -m "battery"
+git push
+git push origin HEAD:main
+byebye

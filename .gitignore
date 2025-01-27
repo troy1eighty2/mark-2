@@ -3,6 +3,7 @@
 !.bash*
 !.config/
 !.config/**
+.config/google-chrome/
 .config/google-chrome/**
 !.gitconfig
 !.gitignore
