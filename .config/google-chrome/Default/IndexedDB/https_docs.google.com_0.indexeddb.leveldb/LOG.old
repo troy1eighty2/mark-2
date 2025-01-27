@@ -1,0 +1,6 @@
+2025/01/26-17:41:25.842 805 Creating DB /home/whykneel/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb since it was missing.
+2025/01/26-17:41:25.846 805 Reusing MANIFEST /home/whykneel/.config/google-chrome/Default/IndexedDB/https_docs.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/01/26-17:41:28.788 806 Level-0 table #5: started
+2025/01/26-17:41:28.791 806 Level-0 table #5: 7375 bytes OK
+2025/01/26-17:41:28.793 806 Delete type=0 #3
+2025/01/26-17:41:28.794 806 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

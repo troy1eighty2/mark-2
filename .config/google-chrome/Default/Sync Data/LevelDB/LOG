@@ -1,3 +1,9 @@
 2025/01/26-16:36:42.876 806 Reusing MANIFEST /home/whykneel/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
 2025/01/26-16:36:42.888 806 Recovering log #33
 2025/01/26-16:36:42.893 806 Reusing old log /home/whykneel/.config/google-chrome/Default/Sync Data/LevelDB/000033.log 
+2025/01/26-17:40:38.984 805 Level-0 table #38: started
+2025/01/26-17:40:39.004 805 Level-0 table #38: 99404 bytes OK
+2025/01/26-17:40:39.010 805 Delete type=0 #33
+2025/01/26-18:05:21.857 807 Level-0 table #40: started
+2025/01/26-18:05:21.874 807 Level-0 table #40: 110072 bytes OK
+2025/01/26-18:05:21.878 807 Delete type=0 #37

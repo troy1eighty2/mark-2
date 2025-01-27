@@ -269,3 +269,149 @@ git commit -m 'second'
 git push
 git push origin HEAD:main
 shutdown
+ll
+cd .config/
+l
+ll
+cd i3/
+ll
+vim config 
+cd ~
+ll
+mkdir MyStuff
+cd MyStuff/
+git pull https://github.com/troy1eighty2/vimconfig
+git clone https://github.com/troy1eighty2/vimconfig
+ll
+cd vimconfig/
+ll
+cp vim.rc ~/
+cd ~
+ll
+cd .nv
+cd .vim/
+ll
+cd ~
+ll
+vim vim.rc 
+mv vim.rc .vimrc
+ll
+mv .vimrc .vim
+ll
+ll .vim
+vim
+mv .vim/.vimrc ~
+vim
+cd MyStuff/
+ll
+cd vimconfig/
+ll
+mv vim.rc .vimrc
+git add -A
+git commit -m "rename file"
+git push
+cd ..
+l
+rm vimconfig/
+rm -rf vimconfig/
+git clone git@github.com:troy1eighty2/vimconfig.git
+cd vimconfig/
+ll
+mv vim.rc .vimrc
+git add -A
+git commit -m "rename .vimrc"
+git push
+ll
+cd ~
+ll
+vim .gitignore 
+git add -A
+git commit -m "vimrc"
+git push
+git push origin HEAD;main
+git push origin HEAD:main
+ll
+neofetch
+ll
+vim .bashrc 
+seh
+seh
+seh
+ll
+seh
+vim README.md
+ll
+vim sudo apt install neovim
+ll
+ll
+cd .config/
+ll
+ll
+ll
+cd ..
+ll
+sudo apt install nvim
+nvim
+sudo apt install neovim
+nvim
+nvim
+cd .config/
+ll
+ll
+mkdir nvim
+ll
+cd nvim/
+ll
+git clone https://github.com/LazyVim/starter.git
+ll
+cd starter/
+ll
+cd ..
+ll
+mv starter/* ./
+ll
+cd starter/
+ll
+cd ..
+ll
+mv starter/** ./
+ll
+mv starter/.* ./
+cd starter/
+ll
+cd ..
+ll
+rm -rf starter/
+ll
+cd ..
+ll
+nvim
+cd ll
+cd ..
+ll
+cd MyStuff/
+ll
+cd ..
+ll
+cd .config/
+ll
+ll
+ll
+polybar
+ll
+cd polybar/
+ll
+vim config.ini 
+polybar &
+sudo apt install xrandr
+sudo snap install xrandr
+ll
+vim config.ini 
+polybar
+polybar
+ll
+cd ..
+ll
+cd ~
+ll
+vim .xinitrc 

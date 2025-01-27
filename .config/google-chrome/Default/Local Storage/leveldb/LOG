@@ -1,3 +1,21 @@
 2025/01/26-16:36:42.903 4 Reusing MANIFEST /home/whykneel/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
 2025/01/26-16:36:42.916 4 Recovering log #18
 2025/01/26-16:36:42.918 4 Reusing old log /home/whykneel/.config/google-chrome/Default/Local Storage/leveldb/000018.log 
+2025/01/26-17:37:52.542 5 Level-0 table #22: started
+2025/01/26-17:37:52.550 5 Level-0 table #22: 35418 bytes OK
+2025/01/26-17:37:52.554 5 Delete type=0 #18
+2025/01/26-18:02:28.629 5 Level-0 table #24: started
+2025/01/26-18:02:28.645 5 Level-0 table #24: 22960 bytes OK
+2025/01/26-18:02:28.648 5 Delete type=0 #21
+2025/01/26-18:08:47.616 5 Level-0 table #26: started
+2025/01/26-18:08:47.634 5 Level-0 table #26: 27713 bytes OK
+2025/01/26-18:08:47.643 5 Delete type=0 #23
+2025/01/26-18:08:47.644 5 Compacting 4@0 + 1@1 files
+2025/01/26-18:08:47.656 5 Generated table #27@0: 161 keys, 74162 bytes
+2025/01/26-18:08:47.656 5 Compacted 4@0 + 1@1 files => 74162 bytes
+2025/01/26-18:08:47.663 5 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/01/26-18:08:47.665 5 Delete type=2 #16
+2025/01/26-18:08:47.665 5 Delete type=2 #22
+2025/01/26-18:08:47.665 5 Delete type=2 #24
+2025/01/26-18:08:47.665 5 Delete type=2 #19
+2025/01/26-18:08:47.665 5 Delete type=2 #26
